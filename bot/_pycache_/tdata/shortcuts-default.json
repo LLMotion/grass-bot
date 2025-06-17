@@ -1,0 +1,246 @@
+
+// This is a list of default shortcuts for Telegram Desktop
+// Please don't modify it, its content is not used in any way
+// You can place your own shortcuts in the 'shortcuts-custom.json' file
+
+[
+    {
+        "version": "5015000"
+    },
+    {
+        "command": "media_play",
+        "keys": "media play"
+    },
+    {
+        "command": "media_stop",
+        "keys": "media stop"
+    },
+    {
+        "command": "media_previous",
+        "keys": "media previous"
+    },
+    {
+        "command": "media_next",
+        "keys": "media next"
+    },
+    {
+        "command": "media_pause",
+        "keys": "media pause"
+    },
+    {
+        "command": "media_playpause",
+        "keys": "toggle media play/pause"
+    },
+    {
+        "command": "search",
+        "keys": "search"
+    },
+    {
+        "command": "search",
+        "keys": "find"
+    },
+    {
+        "command": "self_chat",
+        "keys": "ctrl+0"
+    },
+    {
+        "command": "pinned_chat1",
+        "keys": "ctrl+1"
+    },
+    {
+        "command": "all_chats",
+        "keys": "ctrl+1"
+    },
+    {
+        "command": "pinned_chat2",
+        "keys": "ctrl+2"
+    },
+    {
+        "command": "folder1",
+        "keys": "ctrl+2"
+    },
+    {
+        "command": "pinned_chat3",
+        "keys": "ctrl+3"
+    },
+    {
+        "command": "folder2",
+        "keys": "ctrl+3"
+    },
+    {
+        "command": "pinned_chat4",
+        "keys": "ctrl+4"
+    },
+    {
+        "command": "folder3",
+        "keys": "ctrl+4"
+    },
+    {
+        "command": "pinned_chat5",
+        "keys": "ctrl+5"
+    },
+    {
+        "command": "folder4",
+        "keys": "ctrl+5"
+    },
+    {
+        "command": "pinned_chat6",
+        "keys": "ctrl+6"
+    },
+    {
+        "command": "folder5",
+        "keys": "ctrl+6"
+    },
+    {
+        "command": "pinned_chat7",
+        "keys": "ctrl+7"
+    },
+    {
+        "command": "folder6",
+        "keys": "ctrl+7"
+    },
+    {
+        "command": "pinned_chat8",
+        "keys": "ctrl+8"
+    },
+    {
+        "command": "last_folder",
+        "keys": "ctrl+8"
+    },
+    {
+        "command": "show_archive",
+        "keys": "ctrl+9"
+    },
+    {
+        "command": "search",
+        "keys": "ctrl+f"
+    },
+    {
+        "command": "show_contacts",
+        "keys": "ctrl+j"
+    },
+    {
+        "command": "lock_telegram",
+        "keys": "ctrl+l"
+    },
+    {
+        "command": "minimize_telegram",
+        "keys": "ctrl+m"
+    },
+    {
+        "command": "quit_telegram",
+        "keys": "ctrl+q"
+    },
+    {
+        "command": "read_chat",
+        "keys": "ctrl+r"
+    },
+    {
+        "command": "close_telegram",
+        "keys": "ctrl+w"
+    },
+    {
+        "command": "show_chat_menu",
+        "keys": "ctrl+\\"
+    },
+    {
+        "command": "show_chat_preview",
+        "keys": "ctrl+]"
+    },
+    {
+        "command": "next_chat",
+        "keys": "ctrl+tab"
+    },
+    {
+        "command": "previous_chat",
+        "keys": "ctrl+backtab"
+    },
+    {
+        "command": "previous_chat",
+        "keys": "ctrl+pgup"
+    },
+    {
+        "command": "next_chat",
+        "keys": "ctrl+pgdown"
+    },
+    {
+        "command": "close_telegram",
+        "keys": "ctrl+f4"
+    },
+    {
+        "command": "previous_chat",
+        "keys": "ctrl+shift+tab"
+    },
+    {
+        "command": "previous_folder",
+        "keys": "ctrl+shift+up"
+    },
+    {
+        "command": "next_folder",
+        "keys": "ctrl+shift+down"
+    },
+    {
+        "command": "previous_chat",
+        "keys": "alt+up"
+    },
+    {
+        "command": "next_chat",
+        "keys": "alt+down"
+    },
+    {
+        "command": "first_chat",
+        "keys": "ctrl+alt+home"
+    },
+    {
+        "command": "last_chat",
+        "keys": "ctrl+alt+end"
+    },
+    {
+        "command": "account1",
+        "keys": null
+    },
+    {
+        "command": "account2",
+        "keys": null
+    },
+    {
+        "command": "account3",
+        "keys": null
+    },
+    {
+        "command": "account4",
+        "keys": null
+    },
+    {
+        "command": "account5",
+        "keys": null
+    },
+    {
+        "command": "account6",
+        "keys": null
+    },
+    {
+        "command": "message",
+        "keys": null
+    },
+    {
+        "command": "message_silently",
+        "keys": null
+    },
+    {
+        "command": "message_scheduled",
+        "keys": null
+    },
+    {
+        "command": "media_viewer_video_fullscreen",
+        "keys": null
+    },
+    {
+        "command": "show_scheduled",
+        "keys": null
+    },
+    {
+        "command": "archive_chat",
+        "keys": null
+    }
+]
