@@ -13,8 +13,8 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/tyreme/grassbot
-cd grassbot
+git clone https://github.com/LLMotion/grass-bot
+cd grass-bot
 run.bat
 ```
 
@@ -32,7 +32,8 @@ socks5://username:password:ip:port
 ```
 
 # Showcase🎞
-![grassprevieww](https://github.com/user-attachments/assets/55e1ca61-5df2-4158-95bd-7039f53b5cb9)
+![preview grass](https://github.com/user-attachments/assets/24a77253-532c-4d2e-a9e1-ac0d22976a84)
+
 
 
 
